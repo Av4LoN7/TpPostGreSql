@@ -11,7 +11,6 @@ import java.util.Collection;
 
 import fr.diginamic.postgres.postGresSql.Book;
 import fr.diginamic.postgres.postGresSql.Client;
-import fr.diginamic.postgres.postGresSql.Gender;
 
 public class ClientDAO {
 	
